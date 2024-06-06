@@ -6,6 +6,7 @@
 
 #### Используемые технологии
 - PHP 8.1
+- JavaScript
 - Ajax
 - Bootstrap
 
